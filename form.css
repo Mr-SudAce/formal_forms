@@ -5,14 +5,11 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-body{
-    background-color: rgb(236, 236, 236);
-}
+
 
 form {
     border-radius: 10px;
-    background-color: white;
-    box-shadow: 0px 2px 6px rgb(222, 222, 222);
+    /* box-shadow: 0px 2px 6px rgb(185, 185, 185); */
 }
 
 .div label {
@@ -29,7 +26,7 @@ form {
 .form-control1 {
     width: 100%;
     border-radius: 0;
-    background-color: transparent;
+    /* background-color: transparent; */
 }
 
 .form-control {
@@ -60,7 +57,6 @@ form {
 
 h3 {
     padding: 10px 0 10px 15px;
-    margin: 10px 0 0 0;
     border-radius: 10px 10px 0px 0;
     width: 100%;
     background-color: rgb(247, 247, 247);
@@ -69,4 +65,6 @@ h3 {
 
 .edge {
     border-radius: 0px 0px 10px 10px;
+    box-shadow: 0 0 10px rgb(217, 217, 217);
+    margin-top: 10px;
 }
